@@ -1,0 +1,10 @@
+	@incFraction.s
+	@Gets values from user for a fraction, adds one to the frac.
+	@
+
+	@ Define my Raspberry Pi
+	.cpu    cortex-a53
+	.fpu    neon-fp-armv8
+        .syntax unified         @ modern syntax
+
+	
